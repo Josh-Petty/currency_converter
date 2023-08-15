@@ -1,0 +1,1 @@
+ReactDOM.render(React.createElement(CurrencyConverter, null), document.getElementById('root'));
